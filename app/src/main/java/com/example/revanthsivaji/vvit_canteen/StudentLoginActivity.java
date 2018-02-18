@@ -15,6 +15,6 @@ public class StudentLoginActivity extends AppCompatActivity {
 
     public void login(View view) {
         Intent i=new Intent(StudentLoginActivity.this,ListActivity.class);
-        startActivity(i);
+            startActivity(i);
     }
 }
