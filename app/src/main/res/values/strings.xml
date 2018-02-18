@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">VVIT-CANTEEN</string>
+    <string name="sprite">Sprite</string>
+    <string name="cooldrink">cooldrink</string>
+    <string name="thumps">Thumps</string>
+    <string name="fanta">Fanta</string>
+    <string name="soda">Soda</string>
+    <string name="chocolates">Chocolates</string>
+    <string name="dairymilk">DairyMilk</string>
+    <string name="dairymilk_silk">DairyMilk Silk</string>
+    <string name="kitkat">KitKat</string>
+    <string name="_5star">5Star</string>
+    <string name="barone">BarOne</string>
+    <string name="perk">Perk</string>
+    <string name="biscuits_and_chips">Biscuits and Chips</string>
+    <string name="hide_and_seek">Hide and seek</string>
+    <string name="mom_s_magic">Mom\'s Magic</string>
+    <string name="unibic">UniBic</string>
+    <string name="bingo">Bingo</string>
+    <string name="lays">Lays</string>
+    <string name="others">Others</string>
+    <string name="samosa">Samosa</string>
+    <string name="tea">Tea</string>
+    <string name="stationary">Stationary</string>
+    <string name="record_sheets">Record Sheets</string>
+    <string name="ed_sheet">ED Sheet</string>
+    <string name="place_order">Place Order</string>
+</resources>
