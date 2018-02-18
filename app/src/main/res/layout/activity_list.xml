@@ -33,7 +33,6 @@
                 android:layout_width="40dp"
                 android:layout_height="40dp"
                 android:id="@+id/spritemb"
-                android:onClick="spritemb"
                 android:text="-" />
 
             <TextView
@@ -48,7 +47,6 @@
                 android:layout_width="40dp"
                 android:layout_height="40dp"
                 android:id="@+id/spritepb"
-                android:onClick="spritepb"
                 android:text="+" />
 
             <TextView
